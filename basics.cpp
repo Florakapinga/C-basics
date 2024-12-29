@@ -14,6 +14,12 @@ int main()
     // single character
     char grade = 'A';
     char initial = 'B';
-    std::cout << initial;
+    char dollarsign = '$';
+
+    // Boolean (true or false)
+    bool student = false;
+    bool power = true;
+    bool forSale = true;
+
     return 0;
 }
