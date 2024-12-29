@@ -27,7 +27,8 @@ int main()
     std::string gender = "male";
 
     std::cout << "hellow! " << name << '\n';
-    std::cout << "your gender is " << gender;
+    std::cout << "your gender is " << gender << '\n';
+    std::cout << "you are " << age << "years old";
 
     return 0;
 }
