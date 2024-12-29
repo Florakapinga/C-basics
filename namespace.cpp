@@ -12,5 +12,5 @@ int main()
 {
     int x = 10;
 
-    std::cout << x;
+    std::cout << first::x;
 }
