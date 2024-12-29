@@ -1,12 +1,11 @@
 #include <iostream>
 int main()
 {
-    int x = 10; // declaration and assigning
-    int y = 100;
-    int sum = x + y;
-    std::cout << x << std::endl;
-    std::cout << y << std::endl;
-    std::cout << sum << std::endl;
+    // integer (whole numbers)
+    int age = 20;
+    int year = 2024;
+    int day = 5.9; // trying to assign decimal number as a integer
+    std::cout << day;
 
     return 0;
 }
