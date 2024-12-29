@@ -20,6 +20,14 @@ int main()
     bool student = false;
     bool power = true;
     bool forSale = true;
+    // string (objects that presents sequence text )
+    std::string name = "florah";
+    std::string address = "ruhuwiko st.10";
+    std::string food = "meat";
+    std::string gender = "male";
+
+    std::cout << "hellow! " << name << '\n';
+    std::cout << "your gender is " << gender;
 
     return 0;
 }
